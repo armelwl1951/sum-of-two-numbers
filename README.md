@@ -1,6 +1,6 @@
-# sum-of-two-numbers
-C++ test, sum of two numbers
-C++ program to add two numbers 
+//sum-of-two-numbers
+//C++ test, sum of two numbers
+//C++ program to add two numbers 
 
 #include<iostream>
 using namespace std;
