@@ -5,8 +5,12 @@ using namespace std;
 
 int main()
 {
-	//Store the integers 50 and 100 in num1 and num2.
-	int num1 = 50, num2 = 100;
+	//Store the input digits in num1 and num2
+        int num1,num2;
+        cout<<"Enter first digit \n";
+        cin>>num1;
+        cout<<"Enter second digit \n";
+        cin>>num2;
 
 	//Store the sum of num1 and num2 in total.
 	int total = num1 + num2;
